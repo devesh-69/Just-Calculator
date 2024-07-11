@@ -41,11 +41,11 @@ input {
     margin: 10px 0;
     display: block;
     background: transparent !important;
-    color: white;
+    color: black;
 }
 
 ::placeholder {
-    color: white;
+    color: black;
 }
 
 input[type="number"]::-webkit-inner-spin-button {
